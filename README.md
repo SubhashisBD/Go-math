@@ -1,6 +1,6 @@
 # goon-math
 
-A modern, responsive web app for chapter-wise collection and filtering of Mathematics (and other subjects) PYQs (Previous Year Questions), built with Next.js 15, React 19, Tailwind CSS 4, and Redux Toolkit.
+A modern, responsive web app for chapter-wise collection and filtering of Subjects PYQs , built with Next.js 15, React 19, Tailwind CSS 4, and Redux Toolkit.
 
 ## Features
 
