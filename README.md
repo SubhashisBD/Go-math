@@ -17,8 +17,7 @@ A modern, responsive web app for chapter-wise collection and filtering of Subjec
 - [React 19](https://react.dev/)
 - [Tailwind CSS 4](https://tailwindcss.com/)
 - [Redux Toolkit](https://redux-toolkit.js.org/)
-- [Lucide React](https://lucide.dev/)
-- [Phosphor React](https://phosphoricons.com/)
+- [Phosphor React](https://phosphoricons.com/) [Didn't Support in React version -- ^19.0.0, So alternate I have used Lucid-react Icons]
 - [Radix UI](https://www.radix-ui.com/)
 - [Lucide React](https://lucide.dev/) (for UI icons)
 ## Getting Started
