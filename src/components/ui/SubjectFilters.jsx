@@ -103,7 +103,7 @@ const SubjectFiltersContent = () => {
         <div
           className={`flex-1 w-full lg:w-[848px] border-0 lg:border ${
             darkMode
-              ? "lg:border-[#3A4661] bg-[#26324A]"
+              ? "lg:border-[#3A4661] bg-[#222E3F]"
               : "border-[#D1D8E0] bg-white"
           } transition-colors`}
         >
