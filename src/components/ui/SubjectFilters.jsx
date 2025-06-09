@@ -81,7 +81,7 @@ const SubjectFiltersContent = () => {
           fixed top-4 right-4 z-50 w-10 h-10 rounded-full flex items-center justify-center shadow
           border border-gray-300
           ${
-            darkMode ? "bg-[#26324A] text-yellow-300" : "bg-white text-gray-700"
+            darkMode ? "bg-[#222E3F] text-yellow-300" : "bg-white text-gray-700"
           }
           transition
         `}
